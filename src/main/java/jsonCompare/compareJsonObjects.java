@@ -131,12 +131,7 @@ public class compareJsonObjects {
 			
 		}
 	
-		/*
-		 * // JsonNode beforeNode = jacksonObjectMapper.readTree(response1); // JsonNode
-		 * afterNode = jacksonObjectMapper.readTree(response2); JsonNode patch =
-		 * JsonDiff.asJson(response1, response2); String diffs = patch.toString();
-		 * System.out.println(diffs);
-		 */
+		System.out.println("Both the json comparision done");
 	}
 
 	
