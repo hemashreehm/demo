@@ -1,0 +1,154 @@
+{
+    "member": {
+        "mbrUid": "600546940",
+        "firstNm": "SHANNON",
+        "lastNm": "CALLOWAY",
+        "dob": "1975-03-05",
+        "tobaccoInd": "N",
+        "genderCd": {
+            "code": "F",
+            "name": "Male",
+            "description": "Female"
+        },
+        "raceCd": {
+            "code": "99999",
+            "name": "Not Provided/Unknown",
+            "description": "The member's race is Not Provided or Unknown."
+        },
+        "ethnicityCd ": {
+            "code": "99999",
+            "name": "Not Provided/Unknown",
+            "description": "The Member's Ethnicity is Not Provided or it 's Unknown."
+        },
+        "eligibility": [
+            {
+                "hcId": "005M59059",
+                "mbrSequenceNbr": "20",
+                "originalSequenceNbr": "20",
+                "relationshipCd": {
+                    "code": "SCRBR",
+                    "name": "Subscriber",
+                    "description": "Subscriber"
+                },
+                "effectiveDt": "2015-01-01",
+                "benefitStartDt": "2015-01-01",
+                "caseOrgEffectiveDt": "2015-01-01",
+                "caseCurrentEffectivedt": "2015-01-01",
+                "cobInd": "Please see CCB",
+                "medicareInd": "Please see CCB",
+                "paidToDate": "2015-01-01",
+                "benefitPeriodInd": "N",
+                "benefitEndDt": "2015-01-01",
+                "terminationDt": "2015-01-01",
+                "productGroupNbr": "1GB800",
+                "currentEffectivedt": "2015-01-01",
+                "contractUid": "864D38C4824CAD386C0363683BE3DB68",
+                "mbrUid": "45CB6CF7C832486F5BC408BB1852FF99",
+                "rateGuaranteeDt": "2016-01-01",
+                "contract": {
+                    "subscriberId": "231277447",
+                    "contractId": "005M59059",
+                    "brandCd": {
+                        "code": "ABCBS",
+                        "name": "ANTHEM BLUE CROSS AND BLUE SHIELD"
+                    },
+                    "regionCd": {
+                        "name": "EXCHANGE"
+                    },
+                    "mbuCd": {
+                        "code": "IND",
+                        "name": "Individual"
+                    },
+                    "enrollmentTypeCd": {
+                        "code": "CANC",
+                        "name": "Cancelled",
+                        "description": "Cancelled"
+                    },
+                    "fundingTypeCd": {
+                        "code": "FI",
+                        "name": "Fully Insured"
+                    },
+                    "finCompanyCd": {
+                        "code": "608C",
+                        "name": "HealthKeepers, Inc."
+                    },
+                    "sourceSystemId": "STAR",
+                    "effectiveDt": "2015-01-01",
+                    "bcbsaHomePlanId": {
+                        "code": "834",
+                        "name": "Anthem Blue Cross Blue Shield",
+                        "description": "Anthem Blue Cross Blue Shield"
+                    },
+                    "srcMbuCd": {
+                        "code": "VINZ112X",
+                        "name": "Individual",
+                        "description": "Individual business segment category based on the Marketing Business Unit."
+                    },
+                    "underwritingStCd": "VA"
+                },
+                "coverage": [
+                    {
+                        "effectiveDt": "2015-01-01",
+                        "terminationDt": "2015-02-01",
+                        "alphaPrefix": "YTO",
+                        "statusCd": {
+                            "code": "I",
+                            "name": "Inactive",
+                            "description": "Inactive"
+                        },
+                        "exchangeStateCd": {
+                            "code": "VA",
+                            "name": "Virginia"
+                        },
+                        "exchangeInd": {
+                            "code": "OF",
+                            "name": "Off Exchange"
+                        },
+                        "product": [
+                            {
+                                "effectiveDt": "2015-01-01",
+                                "productType": "AnthemDirectAccess_HMO_VA_01",
+                                "prodMrktgNm": "Anthem HealthKeepers Bronze 5500/25%",
+                                "bnftPlanCd": {
+                                    "code": "HKp Bz 5500/25%"
+                                },
+                                "productId": "1GB8",
+                                "productNm": "AnthemDirectAccess_HMO_VA_01_Direct Access_Virginia_1304450393",
+                                "productFamCd": {
+                                    "code": "MED",
+                                    "name": "Medical"
+                                },
+                                "healthcareArgmtCd": {
+                                    "code": "HMO",
+                                    "name": "Health Maintenance Organization"
+                                },
+                                "cdhpTypeCd": {
+                                    "code": "NONE",
+                                    "name": "None"
+                                },
+                                "pcpRequiredCd": {
+                                    "code": "N",
+                                    "name": "NOT REQUIRED"
+                                },
+                                "coverageTypeCd": {
+                                    "code": "MED",
+                                    "name": "Medical"
+                                },
+                                "businessUnit": {
+                                    "code": "Local",
+                                    "name": "Local"
+                                },
+                                "srcProdCd": "HXCG"
+                            }
+                        ],
+                        "cancelReasonCd": {
+                            "code": "CCNONP",
+                            "name": "Computer cancelled - nonpayment of dues",
+                            "description": "Computer cancelled - nonpayment of dues"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

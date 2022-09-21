@@ -1,0 +1,22 @@
+{
+    "member": {
+        "mbrUid": "600546940",
+        "firstNm": "SHANNON",
+        "lastNm": "CALLOWAY",
+        "dob": "1975-03-05",
+        "tobaccoInd": "N",
+		"extrafiled": "no value",
+        "genderCd": [
+		{
+            "code": "F2",
+			"name": "FemaleLS",
+            "description": "Female low age"
+        },
+		{
+			"code": "F1",
+            "name": "Male",
+            "description": "Female"   
+        }
+		]
+    }    
+}
